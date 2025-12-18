@@ -1,2 +1,2 @@
-# AWS-11-
+# AWS-Cloud-School-11-Final
 AWS 11기 2조 최종프로젝트 입니다.
